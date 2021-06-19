@@ -1,1 +1,0 @@
-print("hello java&&python&&cpp&&go")
